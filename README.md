@@ -14,3 +14,5 @@ This is an n-tier Single Page Application (SPA) built on .Net platform using var
  ->Back End: MS SQL Server 2017
 
  ->Tools: Visual Studio 2019 and SQL Server Management Studio 2017
+
+![image](https://user-images.githubusercontent.com/70046384/124347809-17ab1500-dc04-11eb-9369-033ffd4b1184.png)
