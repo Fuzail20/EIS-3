@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.BOL", "EIS.BOL\EIS.BOL.csproj", "{5A478CBF-822E-4C62-A75C-270DA0CE8683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.DAL", "EIS.DAL\EIS.DAL.csproj", "{47007572-B301-47D1-9460-E00C45B5E78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.ConsoleUI", "EIS.ConsoleUI\EIS.ConsoleUI.csproj", "{4FE2D7BC-64B5-42EE-87BC-277B28C96A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.BLL", "EIS.BLL\EIS.BLL.csproj", "{511F1B5D-C829-405B-A6F8-7E06E9EF9BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.API", "EIS.API\EIS.API.csproj", "{5992BC36-E1F9-4C4B-B1F7-7613833DB511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS.AngularJSUI", "EIS.AngularJSUI\EIS.AngularJSUI.csproj", "{2CB4E58C-C556-4C73-B6C6-44C66F2E942D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A478CBF-822E-4C62-A75C-270DA0CE8683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A478CBF-822E-4C62-A75C-270DA0CE8683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A478CBF-822E-4C62-A75C-270DA0CE8683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A478CBF-822E-4C62-A75C-270DA0CE8683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47007572-B301-47D1-9460-E00C45B5E78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47007572-B301-47D1-9460-E00C45B5E78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47007572-B301-47D1-9460-E00C45B5E78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47007572-B301-47D1-9460-E00C45B5E78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE2D7BC-64B5-42EE-87BC-277B28C96A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE2D7BC-64B5-42EE-87BC-277B28C96A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE2D7BC-64B5-42EE-87BC-277B28C96A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE2D7BC-64B5-42EE-87BC-277B28C96A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511F1B5D-C829-405B-A6F8-7E06E9EF9BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511F1B5D-C829-405B-A6F8-7E06E9EF9BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511F1B5D-C829-405B-A6F8-7E06E9EF9BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511F1B5D-C829-405B-A6F8-7E06E9EF9BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5992BC36-E1F9-4C4B-B1F7-7613833DB511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5992BC36-E1F9-4C4B-B1F7-7613833DB511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5992BC36-E1F9-4C4B-B1F7-7613833DB511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5992BC36-E1F9-4C4B-B1F7-7613833DB511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB4E58C-C556-4C73-B6C6-44C66F2E942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB4E58C-C556-4C73-B6C6-44C66F2E942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB4E58C-C556-4C73-B6C6-44C66F2E942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB4E58C-C556-4C73-B6C6-44C66F2E942D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6970BB9C-E195-4FF0-9BF4-D46FC6623889}
+	EndGlobalSection
+EndGlobal
