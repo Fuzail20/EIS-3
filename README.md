@@ -17,7 +17,11 @@ This is an n-tier Single Page Application (SPA) built on .Net platform using var
 
 ![image](https://user-images.githubusercontent.com/70046384/124347809-17ab1500-dc04-11eb-9369-033ffd4b1184.png)
 
+Employee Management Tab
+
 ![image](https://user-images.githubusercontent.com/70046384/124347876-6a84cc80-dc04-11eb-9cd3-02cede8bd55f.png)
+
+Employee Profile Tab
 
 ![image](https://user-images.githubusercontent.com/70046384/124347896-81c3ba00-dc04-11eb-9a76-9123e85c43f9.png)
 
